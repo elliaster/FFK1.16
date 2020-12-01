@@ -1,0 +1,4658 @@
+{
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2020-11-26 04:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/fluid_module": {
+    "criteria": {
+      "ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2020-11-27 01:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2020-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/nickel_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2020-11-26 05:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sentry": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2020-11-26 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "dimstorage:recipes/dimstorage_tab/dim_wall": {
+    "criteria": {
+      "ender_pearl": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-11-26 04:42:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2020-11-26 03:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2020-11-26 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2020-11-26 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2020-11-27 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/apothecary_default": {
+    "criteria": {
+      "has_item": "2020-11-28 02:21:39 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/jewelled_apple": {
+    "criteria": {
+      "has_geode": "2020-11-27 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2020-11-26 05:43:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/quartz_sunny": {
+    "criteria": {
+      "has_item": "2020-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-26 20:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.reactor/reactor/reinforced/passivefluidport_forge": {
+    "criteria": {
+      "has_item2": "2020-11-28 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-11-28 04:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2020-11-26 20:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2020-11-26 21:39:31 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.reactor/reactor/basic/activetap_fe": {
+    "criteria": {
+      "has_item2": "2020-11-27 02:09:34 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/copper_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-11-26 03:20:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_metalbarrel": {
+    "criteria": {
+      "has_minecart": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2020-11-26 21:40:59 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/fluid_loader": {
+    "criteria": {
+      "has_item": "2020-11-28 03:56:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/copper_silver_chest": {
+    "criteria": {
+      "has_item": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2020-11-27 01:47:54 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transportation/minecraft_powered_rail_from_transport_rails_powered": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/copper_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2020-11-26 03:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2020-11-26 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2020-11-28 04:00:07 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/bismuth_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/passivefluidport_forge": {
+    "criteria": {
+      "has_item2": "2020-11-28 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "restrictedportals:root": {
+    "criteria": {
+      "root": "2020-11-26 03:06:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/copper_to_silver_chest_upgrade": {
+    "criteria": {
+      "has_item": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "bountifulbaubles:recipes/bountifulbaubles/disintegration_tablet": {
+    "criteria": {
+      "quartz": "2020-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/blue_geode_helmet": {
+    "criteria": {
+      "has_material": "2020-11-27 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2020-11-27 01:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2020-11-26 05:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/silver_gold_chest": {
+    "criteria": {
+      "has_item": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2020-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-11-26 03:20:51 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transportation/minecraft_rail_from_transport_rails_structure": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/copper_iron_chest": {
+    "criteria": {
+      "has_item": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/string": {
+    "criteria": {
+      "has_hemp_fiber": "2020-11-28 02:05:27 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/iron_fishing_rod": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/toolbox": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/nickel_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/text_module": {
+    "criteria": {
+      "ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/modular_boat_from_acacia": {
+    "criteria": {
+      "has_item": "2020-11-27 02:06:00 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/transport_wye_switch_rail_from_transport_rails_regular": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2020-11-26 03:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-26 03:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2020-11-26 04:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2020-11-26 03:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-11-26 04:42:33 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/aluminum_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_copper_from_blasting": {
+    "criteria": {
+      "has_ore_copper": "2020-11-26 20:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2020-11-26 21:39:31 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/electrum_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_leggings": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/refined_iron_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/intersection_rail": {
+    "criteria": {
+      "has_minecart": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/insulating_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/screwdriver": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/copper_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-11-27 01:42:31 +0000"
+    },
+    "done": true
+  },
+  "chargers:recipes/redstone/charger_t1": {
+    "criteria": {
+      "has_ingots_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/highspeed_rail": {
+    "criteria": {
+      "has_minecart": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2020-11-26 03:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2020-11-27 20:01:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:19:39 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/electrum_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/platinum_ingot_from_smelting": {
+    "criteria": {
+      "has_platinum_ore": "2020-11-26 21:55:14 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/diamond_crossing_rail": {
+    "criteria": {
+      "has_rail": "2020-11-26 05:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-11-26 04:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-11-27 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/button_module": {
+    "criteria": {
+      "ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2020-11-27 02:09:34 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/uranium_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_copper_hammering": {
+    "criteria": {
+      "has_copper_ingot": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/transport_scaffolding_rail_from_transport_rails_structure": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2020-11-28 04:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2020-11-26 21:39:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/bloodmagictab/sacrificial_dagger": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/diamond_dragon_armor": {
+    "criteria": {
+      "has_diamond": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/lead_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/cage_trap": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2020-11-26 05:22:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/smart_module": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2020-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-11-26 04:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wire_copper": {
+    "criteria": {
+      "has_copper_ingot": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/platinum_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2020-11-26 04:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2020-11-26 03:19:39 +0000"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/fuel/track_builder/coals": {
+    "criteria": {
+      "has_ingredient": "2020-11-26 04:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:19:39 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/blue_geode_axe": {
+    "criteria": {
+      "has_material": "2020-11-27 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/uranium_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/brass_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/trophy_system": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_gold_hammering": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "chargers:recipes/redstone/wireless_charger": {
+    "criteria": {
+      "has_ender_pearls": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/gray_shiny_flower": {
+    "criteria": {
+      "has_item": "2020-11-26 05:22:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/whitelist_module": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/speed_up_belt": {
+    "criteria": {
+      "has_item": "2020-11-27 01:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-11-27 01:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/aluminum_steel_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/energy_module": {
+    "criteria": {
+      "ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/tin_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2020-11-28 03:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2020-11-26 21:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-11-26 03:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2020-11-27 01:42:31 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/silver_diamond_chest": {
+    "criteria": {
+      "has_item": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_acacia_planks": "2020-11-26 04:49:05 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/smartwrench": {
+    "criteria": {
+      "iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2020-11-27 01:51:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2020-11-27 20:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-11-26 03:20:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/empty_casing": {
+    "criteria": {
+      "has_coppper_ingot": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2020-11-26 20:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2020-11-27 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_item": "2020-11-26 03:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2020-11-26 03:39:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/disguise_module": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/aluminum_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/tin_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/wye_switch_rail": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_lv": {
+    "criteria": {
+      "has_copper_ingot": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_item": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "rftoolscontrol:recipes/rftoolscontrol/card_base": {
+    "criteria": {
+      "redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/panic_button": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/single_track_builder": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2020-11-26 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-26 03:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-11-28 04:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2020-11-28 02:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2020-11-26 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2020-11-27 02:09:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/stick_iron": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/invar_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/transport_elevator_switch_rail_from_transport_rails_structure": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 03:26:03 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_woodenbarrel": {
+    "criteria": {
+      "has_minecart": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2020-11-26 03:20:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv": {
+    "criteria": {
+      "has_copper_ingot": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_gray": {
+    "criteria": {
+      "has_item": "2020-11-26 05:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/wooden_fillet_knife": {
+    "criteria": {
+      "has_items": "2020-11-26 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-26 03:37:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/blacklist_module": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2020-11-26 04:08:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-11-26 21:36:09 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_lead_from_blasting": {
+    "criteria": {
+      "has_ore_lead": "2020-11-27 01:50:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/transport_diamond_crossing_rail_from_transport_rails_regular": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2020-11-26 03:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2020-11-26 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2020-11-26 20:53:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/voltmeter": {
+    "criteria": {
+      "has_copper_ingot": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2020-11-27 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-26 03:37:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2020-11-26 04:08:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-11-28 04:00:07 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/gold_to_diamond_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/blue_geode_dragon_armor": {
+    "criteria": {
+      "has_blue_geode": "2020-11-27 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/blue_geode_chestplate": {
+    "criteria": {
+      "has_material": "2020-11-27 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_crystal_chest": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/copper_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_item": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/holding_rail": {
+    "criteria": {
+      "has_rail": "2020-11-26 05:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-26 03:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/silver_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_item": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2020-11-26 04:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2020-11-26 03:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2020-11-26 04:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2020-11-28 04:00:07 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-11-27 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/double_track_builder": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-11-26 21:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2020-11-28 04:00:16 +0000"
+    },
+    "done": true
+  },
+  "bountifulbaubles:recipes/bountifulbaubles/gloves_digging_diamond": {
+    "criteria": {
+      "diamond": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.turbine/turbine/basic/passivefluidport_forge": {
+    "criteria": {
+      "has_item2": "2020-11-28 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2020-11-26 03:18:09 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/bismuth_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2020-11-26 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-11-26 03:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-26 03:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fishing_rod": {
+    "criteria": {
+      "has_diamond": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv": {
+    "criteria": {
+      "has_aluminum_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/module_configurator": {
+    "criteria": {
+      "has_item": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/teleport_rail": {
+    "criteria": {
+      "has_minecart": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/uranium_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2020-11-26 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2020-11-27 20:01:09 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/misc/blasting/iron_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2020-11-28 02:11:23 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/bismuth_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2020-11-26 20:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2020-11-27 20:01:09 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/bloodmagictab/soul_forge": {
+    "criteria": {
+      "has_gold": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2020-11-26 04:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2020-11-26 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/crafting_card": {
+    "criteria": {
+      "crafter": "2020-11-26 03:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-11-28 04:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-26 03:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2020-11-26 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2020-11-26 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-26 03:44:24 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
+    "criteria": {
+      "has_copper_ingot": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_stone_slab": "2020-11-26 20:53:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/brass_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-26 03:37:18 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/rail_workers_bench": {
+    "criteria": {
+      "has_item": "2020-11-26 05:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/manual": {
+    "criteria": {
+      "book": "2020-11-26 04:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2020-11-26 04:06:52 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2020-11-26 20:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/tin_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.turbine/turbine/basic/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/diamond_to_obsidian_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2020-11-27 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-11-26 04:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-11-28 04:00:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/pool_minecart": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2020-11-28 04:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2020-11-27 01:51:03 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/silver_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_copper": {
+    "criteria": {
+      "has_copper_ingot": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "restrictedportals:nether": {
+    "criteria": {
+      "nether": "2020-11-28 02:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-11-28 04:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-11-26 20:48:50 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/iron_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2020-11-26 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/machineinformation_module": {
+    "criteria": {
+      "ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2020-11-26 05:43:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/blue_geode_hoe": {
+    "criteria": {
+      "has_material": "2020-11-27 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transportation/minecraft_detector_rail_from_transport_rails_powered": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/green_shield_template_block": {
+    "criteria": {
+      "glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
+    "criteria": {
+      "ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2020-11-26 03:22:24 +0000"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/fuel/teleport_rail/ender_pearl": {
+    "criteria": {
+      "has_ingredient": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:19:39 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/lead_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.general/blasting/yellorium_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-27 01:55:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/uranium_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/powerpack": {
+    "criteria": {
+      "has_copper_ingot": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/refined_iron_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_small": {
+    "criteria": {
+      "has_leather": "2020-11-26 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/briefcase": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/aluminum_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_lv_relay": {
+    "criteria": {
+      "has_copper_ingot": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2020-11-26 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-11-26 04:42:33 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/yellow_shield_template_block": {
+    "criteria": {
+      "glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2020-11-26 04:01:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_remover": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2020-11-26 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2020-11-27 01:51:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/hemp_fabric": {
+    "criteria": {
+      "has_hemp_fiber": "2020-11-28 02:05:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver": {
+    "criteria": {
+      "has_ore_silver": "2020-11-27 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/charged_porter": {
+    "criteria": {
+      "pearl": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/signalum_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2020-11-26 03:06:17 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/transport_gold_rail_from_forge_ingots_gold": {
+    "criteria": {
+      "has_item": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/silver_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-26 03:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/enderium_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/energy_loader": {
+    "criteria": {
+      "has_item": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/gold_dragon_armor": {
+    "criteria": {
+      "has_gold": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/lumium_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-11-26 03:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2020-11-26 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/golden_fishing_rod": {
+    "criteria": {
+      "has_gold": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/direction_rail": {
+    "criteria": {
+      "has_minecart": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/silver_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-26 03:44:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/turntable": {
+    "criteria": {
+      "has_alt_item": "2020-11-27 02:09:28 +0000"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/projector": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/electrified_iron_fence": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-11-27 01:11:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel_from_blasting": {
+    "criteria": {
+      "has_ore_nickel": "2020-11-27 01:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2020-11-26 04:06:53 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/redstone_alloy_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/redstone_module": {
+    "criteria": {
+      "ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/lead_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2020-11-26 20:48:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/pestle_and_mortar": {
+    "criteria": {
+      "has_item": "2020-11-26 03:19:39 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/aluminum_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-26 03:44:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/taser": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.general/blasting/graphite_from_coal": {
+    "criteria": {
+      "has_item": "2020-11-26 04:15:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/bucket_f_water_strong": {
+    "criteria": {
+      "has_water_bucket": "2020-11-28 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/blue_geode_sword": {
+    "criteria": {
+      "has_material": "2020-11-27 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:root": {
+    "criteria": {
+      "get_item": "2020-11-26 03:19:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2020-11-26 05:43:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_lead": {
+    "criteria": {
+      "has_ore_lead": "2020-11-27 01:50:43 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/signalum_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/security_camera": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-11-26 04:08:03 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/fluidplus_module": {
+    "criteria": {
+      "ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_woodencrate": {
+    "criteria": {
+      "has_minecart": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/clock_module": {
+    "criteria": {
+      "ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2020-11-26 04:49:05 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/coil_mv": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-11-26 03:37:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/portable_radar": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2020-11-28 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2020-11-26 04:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/red_shield_template_block": {
+    "criteria": {
+      "glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:19:39 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/coil_lv": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/iron_fillet_knife": {
+    "criteria": {
+      "has_items": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/platinum_ingot_from_blasting": {
+    "criteria": {
+      "has_platinum_ore": "2020-11-26 21:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-11-26 03:08:05 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_iron_hammering": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/storage_module": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2020-11-26 04:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/nickel_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2020-11-27 02:28:21 +0000",
+      "minecraft:skeleton": "2020-11-26 03:38:46 +0000",
+      "minecraft:magma_cube": "2020-11-28 03:07:18 +0000",
+      "minecraft:spider": "2020-11-27 01:47:08 +0000",
+      "minecraft:creeper": "2020-11-26 05:47:52 +0000",
+      "minecraft:witch": "2020-11-27 19:51:29 +0000",
+      "minecraft:cave_spider": "2020-11-27 19:58:21 +0000",
+      "minecraft:silverfish": "2020-11-26 03:44:20 +0000",
+      "minecraft:zombie": "2020-11-26 03:37:59 +0000",
+      "minecraft:zombie_villager": "2020-11-26 04:01:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/clamp_rail": {
+    "criteria": {
+      "has_minecart": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/fuel/teleport_rail/gold_ingots": {
+    "criteria": {
+      "has_ingredient": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecutter": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/blue_geode_block": {
+    "criteria": {
+      "has_blue_geode": "2020-11-27 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2020-11-27 01:51:03 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/redstone_information": {
+    "criteria": {
+      "redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:19:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/bucket_f_water_normal": {
+    "criteria": {
+      "has_water_bucket": "2020-11-28 03:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-11-26 03:20:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.general/smelting/yellorium_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-27 01:55:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/connector_hv_relay": {
+    "criteria": {
+      "has_aluminum_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/twig_wand": {
+    "criteria": {
+      "has_item": "2020-11-28 02:21:39 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/enderium_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/manual": {
+    "criteria": {
+      "has_book": "2020-11-26 04:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2020-11-26 03:39:31 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/misc/smelting/iron_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.reactor/reactor/basic/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/bismuth_brass_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/copper_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/steel_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-11-26 05:35:56 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/aluminum_steel_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2020-11-26 04:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-11-26 04:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2020-11-26 05:43:46 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ghost_rail": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/username_logger": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2020-11-26 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2020-11-26 03:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2020-11-26 21:39:29 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/bismuth_brass_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.general/smelting/graphite_from_coal": {
+    "criteria": {
+      "has_item": "2020-11-26 04:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2020-11-26 04:01:51 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/zinc_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transportation/minecraft_activator_rail_from_transport_rails_powered": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-11-28 04:00:07 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.general/smelting/graphite_from_charcoal": {
+    "criteria": {
+      "has_item": "2020-11-26 20:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2020-11-26 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2020-11-26 03:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-11-27 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2020-11-26 20:53:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/fuel/teleport_rail/redstone_dusts": {
+    "criteria": {
+      "has_ingredient": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/transport_bumper_rail_from_transport_rails_regular": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2020-11-26 03:37:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/camera_monitor": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2020-11-27 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_silver_from_blasting": {
+    "criteria": {
+      "has_ore_silver": "2020-11-27 01:50:59 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/silver_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/modular_boat_from_oak": {
+    "criteria": {
+      "has_item": "2020-11-27 02:17:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2020-11-27 02:06:28 +0000",
+      "minecraft:forest": "2020-11-26 03:56:19 +0000",
+      "minecraft:desert_hills": "2020-11-26 20:39:01 +0000",
+      "minecraft:desert": "2020-11-26 03:39:51 +0000",
+      "minecraft:birch_forest": "2020-11-27 01:02:45 +0000",
+      "minecraft:savanna_plateau": "2020-11-26 04:09:26 +0000",
+      "minecraft:beach": "2020-11-26 03:16:58 +0000",
+      "minecraft:river": "2020-11-26 03:16:59 +0000",
+      "minecraft:lukewarm_ocean": "2020-11-26 03:32:25 +0000",
+      "minecraft:birch_forest_hills": "2020-11-27 01:09:11 +0000",
+      "minecraft:savanna": "2020-11-26 03:59:10 +0000",
+      "minecraft:plains": "2020-11-26 03:55:06 +0000"
+    },
+    "done": false
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/lead_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/bloodmagictab/soul_snare": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2020-11-26 21:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:19:39 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2020-11-28 03:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-11-26 03:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "bountifulbaubles:recipes/bountifulbaubles/gloves_digging_iron": {
+    "criteria": {
+      "iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/booster_engine": {
+    "criteria": {
+      "has_item": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2020-11-27 19:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2020-11-26 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/energyplus_module": {
+    "criteria": {
+      "ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2020-11-26 20:47:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2020-11-26 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "bountifulbaubles:recipes/bountifulbaubles/obsidian_skull": {
+    "criteria": {
+      "obsidian": "2020-11-26 20:48:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2020-11-26 03:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/machine_base": {
+    "criteria": {
+      "gold": "2020-11-26 04:06:53 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/iron_silver_chest": {
+    "criteria": {
+      "has_item": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/blue_geode_pickaxe": {
+    "criteria": {
+      "has_material": "2020-11-27 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/power_core1": {
+    "criteria": {
+      "core": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/solid_fuel_engine": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_iron": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transportation/minecraft_rail_from_transport_rails_regular": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/wirecoil_structure_rope": {
+    "criteria": {
+      "has_hemp_fiber": "2020-11-28 02:05:27 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/misc/smelting/gold_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2020-11-28 04:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2020-11-26 04:49:05 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/blue_geode_leggings": {
+    "criteria": {
+      "has_material": "2020-11-27 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/alarm": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "tesseract:recipes/search/tesseract": {
+    "criteria": {
+      "ender_pearl": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/bumper_rail": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/zinc_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "dimstorage:recipes/dimstorage_tab/dim_core": {
+    "criteria": {
+      "diamond": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/empty_shell": {
+    "criteria": {
+      "has_coppper_ingot": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "mininggadgets:recipes/mininggadgets/upgrade_empty": {
+    "criteria": {
+      "has_diamonds": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "rftoolsstorage:recipes/rftoolsstorage/storage_control_module": {
+    "criteria": {
+      "ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/redstone_alloy_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/buffer_stop": {
+    "criteria": {
+      "has_minecart": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2020-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-11-26 04:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2020-11-26 04:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/screen_link": {
+    "criteria": {
+      "redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2020-11-28 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-11-27 02:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-11-26 21:35:50 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/timed_holding_rail": {
+    "criteria": {
+      "has_rail": "2020-11-26 05:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-11-27 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/decorations/minecraft_chain_from_forge_ingots_iron": {
+    "criteria": {
+      "has_item": "2020-11-26 04:07:58 +0000"
+    },
+    "done": true
+  },
+  "rftoolsstorage:recipes/rftoolsstorage/dump_module": {
+    "criteria": {
+      "ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2020-11-27 01:47:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/decorations/crafting/torch": {
+    "criteria": {
+      "has_stick": "2020-11-26 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/redstone_root": {
+    "criteria": {
+      "has_item": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.turbine/turbine/reinforced/activetap_fe": {
+    "criteria": {
+      "has_item2": "2020-11-27 02:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2020-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.reactor/reactor/reinforced/passivetap_fe": {
+    "criteria": {
+      "has_item2": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/harming_module": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/misc/blasting/gold_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2020-11-26 03:41:44 +0000",
+      "cooked_beef": "2020-11-26 03:59:54 +0000",
+      "beef": "2020-11-26 04:20:25 +0000",
+      "porkchop": "2020-11-27 01:21:27 +0000",
+      "potato": "2020-11-27 20:01:27 +0000",
+      "cooked_cod": "2020-11-26 03:28:26 +0000",
+      "mutton": "2020-11-27 01:18:26 +0000",
+      "bread": "2020-11-26 05:50:07 +0000",
+      "melon_slice": "2020-11-26 05:41:22 +0000",
+      "beetroot": "2020-11-28 04:06:26 +0000"
+    },
+    "done": false
+  },
+  "transport:recipes/transport/rail_breaker": {
+    "criteria": {
+      "has_item": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-11-26 03:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.general/blasting/graphite_from_charcoal": {
+    "criteria": {
+      "has_item": "2020-11-26 20:19:41 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/platinum_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-11-26 03:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/flower_bag": {
+    "criteria": {
+      "has_item": "2020-11-26 05:22:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/redstone_module": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2020-11-26 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2020-11-26 21:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-26 03:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-11-27 01:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2020-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2020-11-28 04:00:07 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/tin_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/inventory_module": {
+    "criteria": {
+      "ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/platinum_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2020-11-26 04:33:48 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/machine_frame": {
+    "criteria": {
+      "iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/switch_rail": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transportation/minecraft_rail_from_transport_rails_powered": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-11-26 03:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-11-26 20:48:50 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/blue_shield_template_block": {
+    "criteria": {
+      "glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/invar_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/platinum_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2020-11-26 04:49:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/red_string_container": {
+    "criteria": {
+      "has_base_block": "2020-11-26 03:18:36 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/stone_fillet_knife": {
+    "criteria": {
+      "has_items": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/component_iron": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/plate_silver_hammering": {
+    "criteria": {
+      "has_silver_ingot": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lexicon": {
+    "criteria": {
+      "has_alt_item": "2020-11-26 04:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/bismuth_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/minecart_reinforcedcrate": {
+    "criteria": {
+      "has_minecart": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum_from_blasting": {
+    "criteria": {
+      "has_ore_aluminum": "2020-11-26 05:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/blue_geode_tipped_arrow": {
+    "criteria": {
+      "has_geode": "2020-11-27 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-11-26 03:06:43 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/iron_dragon_armor": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/quartz_red": {
+    "criteria": {
+      "has_item": "2020-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
+    "criteria": {
+      "redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "usefulrailroads:recipes/fuel/teleport_rail/diamond_gems": {
+    "criteria": {
+      "has_ingredient": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-11-26 03:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-11-26 03:43:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2020-11-26 04:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_copper": {
+    "criteria": {
+      "has_ore_copper": "2020-11-26 20:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-11-26 03:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2020-11-26 03:56:10 +0000"
+    },
+    "done": true
+  },
+  "mining_helmet:recipes/mining_helmet": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/bismuth_steel_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/transport_holding_rail_from_transport_rails_powered": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2020-11-26 05:22:26 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.turbine/turbine/basic/activetap_fe": {
+    "criteria": {
+      "has_item2": "2020-11-27 02:09:34 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_nickel": {
+    "criteria": {
+      "has_ore_nickel": "2020-11-27 01:53:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2020-11-26 03:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-11-26 04:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2020-11-26 04:15:26 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/bronze_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2020-11-27 01:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/blue_geode_shovel": {
+    "criteria": {
+      "has_material": "2020-11-27 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2020-11-26 03:26:37 +0000"
+    },
+    "done": true
+  },
+  "mining_dimension:recipes/decorations/teleporter": {
+    "criteria": {
+      "has_log": "2020-11-26 03:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-26 03:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2020-11-27 01:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/quartz_dark": {
+    "criteria": {
+      "has_item": "2020-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2020-11-26 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/steel_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2020-11-26 04:12:47 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/transport_timed_holding_rail_from_transport_rails_powered": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2020-11-26 03:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2020-11-26 03:19:40 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2020-11-26 04:33:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/diamond_to_crystal_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/lumium_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2020-11-26 03:19:39 +0000"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.reactor/reactor/reinforced/activetap_fe": {
+    "criteria": {
+      "has_item2": "2020-11-27 02:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2020-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-11-26 03:37:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2020-11-26 03:34:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_aluminum": {
+    "criteria": {
+      "has_ore_aluminum": "2020-11-26 05:27:09 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/transport_iron_rail_from_forge_ingots_iron": {
+    "criteria": {
+      "has_item": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "wyrmroost:recipes/wyrmroost/blue_geode_boots": {
+    "criteria": {
+      "has_material": "2020-11-27 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/bronze_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_def": {
+    "criteria": {
+      "iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2020-11-27 19:25:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/quartz_lavender": {
+    "criteria": {
+      "has_item": "2020-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/item_loader": {
+    "criteria": {
+      "has_item": "2020-11-26 03:18:36 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/transport_switch_rail_from_transport_rails_regular": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2020-11-26 03:31:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_lime": {
+    "criteria": {
+      "has_item": "2020-11-27 01:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/light_engineering": {
+    "criteria": {
+      "has_copper_ingot": "2020-11-26 03:34:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lime_shiny_flower": {
+    "criteria": {
+      "has_item": "2020-11-27 01:14:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "transport:recipes/transport/cargo_minecart_from_iron": {
+    "criteria": {
+      "has_item": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-11-26 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2020-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/quartz_blaze": {
+    "criteria": {
+      "has_item": "2020-11-28 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-11-26 21:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2020-11-26 20:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2020-11-27 01:43:34 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/lantern": {
+    "criteria": {
+      "has_glowstone": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2020-11-26 05:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2020-11-26 03:34:02 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/smelting/nickel_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2020-11-27 01:51:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
+    "criteria": {
+      "has_iron": "2020-11-26 04:09:54 +0000"
+    },
+    "done": true
+  },
+  "silents_mechanisms:recipes/silents_mechanisms/blasting/bismuth_steel_ingot": {
+    "criteria": {
+      "has_item": "2020-11-26 03:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-11-26 03:44:24 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2020-11-26 03:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2020-11-26 03:20:40 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2584
+}

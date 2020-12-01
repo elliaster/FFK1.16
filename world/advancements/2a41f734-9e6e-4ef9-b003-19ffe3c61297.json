@@ -1,0 +1,21 @@
+{
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2020-11-28 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2020-11-28 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "restrictedportals:root": {
+    "criteria": {
+      "root": "2020-11-28 01:32:52 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2584
+}
